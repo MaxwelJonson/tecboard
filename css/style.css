@@ -26,8 +26,7 @@ body{
 
 header img{
     display: block;
-    margin-top: 75px;
-    margin-left: 360px;
+    margin: 75px 0 0 150px;
 }
 
 h1{
