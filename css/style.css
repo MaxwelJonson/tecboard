@@ -24,9 +24,19 @@ body{
     color: #FFFFFF;
 }
 
-header img{
+ul{
     display: block;
-    margin: 75px 0 0 150px;
+    margin: 75px 150px 0px 150px;
+}
+
+li{
+    list-style-type: none;
+}
+
+li a{
+    float: right;
+    width: 40px;
+    height: 40px;
 }
 
 h1{
@@ -49,7 +59,7 @@ p{
     margin: 0 auto;
 }
 
-a{
+main section a{
     color: #FFFFFF;
     font-size: 24px;
     text-decoration: none;
@@ -63,11 +73,11 @@ a{
     margin: 40px auto;
 }
 
-a:hover{
+main section a:hover{
     background-color: #8233E8;
 }
 
-section img{
+main section img{
     display: block;
     width: 792px;
     height: 446px;
